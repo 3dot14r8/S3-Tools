@@ -1,5 +1,17 @@
+
+
 # S3-Tools
 **Repository of publicly available tools used to examine S3 Buckets**
+
+## Background:
+
+https://aws.amazon.com/articles/amazon-s3-bucket-public-access-considerations/
+
+#### Amazon’s Macie 
+
+https://aws.amazon.com/macie/
+
+## Tools:
 
 #### Bucket Stream
 Find interesting Amazon S3 Buckets by watching certificate transparency logs.
