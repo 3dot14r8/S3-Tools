@@ -1,5 +1,5 @@
 # S3-Tools
-** Repository of publicly available tools used to examine S3 Buckets **
+**Repository of publicly available tools used to examine S3 Buckets**
 
 #### Bucket Stream
 Find interesting Amazon S3 Buckets by watching certificate transparency logs.
